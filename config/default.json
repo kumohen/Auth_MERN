@@ -1,0 +1,5 @@
+{
+  "MONGO_URI": "mongodb://mahen:12345a@ds227808.mlab.com:27808/mern_1",
+  "JWT_SECRET": "MOHENMONDALJDFKFLL",
+  "SENDGID": "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"
+}
